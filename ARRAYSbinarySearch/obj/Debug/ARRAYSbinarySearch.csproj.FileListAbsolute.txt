@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSbinarySearch\ARRAYSbinarySearch\bin\Debug\ARRAYSbinarySearch.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSbinarySearch\ARRAYSbinarySearch\bin\Debug\ARRAYSbinarySearch.exe
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSbinarySearch\ARRAYSbinarySearch\bin\Debug\ARRAYSbinarySearch.pdb
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSbinarySearch\ARRAYSbinarySearch\obj\Debug\ARRAYSbinarySearch.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSbinarySearch\ARRAYSbinarySearch\obj\Debug\ARRAYSbinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSbinarySearch\ARRAYSbinarySearch\obj\Debug\ARRAYSbinarySearch.exe
+C:\Users\Nemanja Djordjevic\source\repos\ARRAYSbinarySearch\ARRAYSbinarySearch\obj\Debug\ARRAYSbinarySearch.pdb
